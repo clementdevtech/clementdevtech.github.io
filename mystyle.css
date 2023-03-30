@@ -1,0 +1,32 @@
+hi.light{
+	font-weight:
+	lighter;
+}
+body{
+	background-color: pink;
+}
+a{
+	text-decoration: none;
+}
+header{
+	padding: 10px 26px;
+	background: white;
+}
+nav{
+	display: flex;
+	color: green
+}
+img{
+	padding-bottom: auto;
+	width: 50px;
+	height: 50px;
+}
+.container{
+	display: grid;
+	align-items: center;
+	grid-template-columns: 1fr 1fr 1fr;
+	column-gap: 2px;
+}
+footer{
+	background-color: yellowgreen;
+}
